@@ -3,6 +3,7 @@
  * Subclass of ReplaceTextCommand
  *
  * @see ReplaceTextCommand
+ *
  * @author Mihailo Hranisavljevic
  * @version 1.0
  */

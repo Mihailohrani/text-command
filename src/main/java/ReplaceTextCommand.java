@@ -1,6 +1,8 @@
 /**
  * Command to replace all text to a new text.
  *
+ * @see TextCommand
+ *
  * @author Mihailo Hranisavljevic
  * @version 1.0
  */
